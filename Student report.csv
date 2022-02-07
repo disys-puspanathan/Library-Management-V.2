@@ -1,0 +1,77 @@
+﻿student_name,department,sex
+Aravindh,IT,Male
+Neha kumar,IT,Female
+Aswath,IT,Male
+Yuvan,IT,Male
+Navin prasanth,IT,Male
+Aaradhya,IT,Female
+Elina,IT,Female
+Harish anadh,IT,Male
+Saravanan,IT,Male
+Jayashree,IT,Female
+Ajay kumar,IT,Male
+Kumar,IT,Male
+Srinithi,IT,Female
+Kapil dev,IT,Male
+Manoj kumar,IT,Male
+Roshni,IT,Female
+Vinitha,IT,Female
+Vijay,IT,Male
+Surya,IT,Male
+Vishal,IT,Male
+Manogar,CSE,Male
+Anusurya,CSE,Female
+Gowtham,CSE,Male
+Prabhu,CSE,Male
+Raja,CSE,Male
+Gayathri,CSE,Female
+Rohini,CSE,Female
+Andrews,CSE,Male
+melvin,CSE,Male
+Lilly,CSE,Female
+Franchise,CSE,Male
+Vinoth,CSE,Male
+Betty,CSE,Female
+Vinothini,CSE,Female
+Gopal,MECH,Male
+Govindhan,MECH,Male
+Kowshik,MECH,Male
+Leo Paul,MECH,Male
+Suraj,MECH,Male
+Harshan,MECH,Male
+Prabhash,MECH,Male
+Vijith,MECH,Male
+Srijith,MECH,Male
+Sriman,MECH,Male
+Sriram,MECH,Male
+Nithesh,MECH,Male
+Rithesh,MECH,Male
+Sanjay,MECH,Male
+Caleb,MECH,Male
+thirupathi,BME,Male
+Deepthi,BME,Female
+Varun,BME,Male
+Sankar,BME,Male
+Mahadevan,BME,Male
+Aysha,BME,Female
+Harini,BME,Female
+Jeyaraj,BME,Male
+Prithvi,BME,Male
+Madhumitha,BME,Female
+Ashwin,BME,Male
+Selva,BME,Male
+Ramya,CIVIL,Female
+Murugan,CIVIL,Male
+Srinivasan,CIVIL,Male
+Lakhsmi,CIVIL,Female
+Priya,CIVIL,Female
+Prasath,CIVIL,Male
+Omar,CIVIL,Male
+Muhmad,CIVIL,Male
+John,CIVIL,Male
+Prabhu,MBA,male
+
+(71 rows affected)
+
+
+Completion time: 2022-02-05T20:04:11.8998333+05:30

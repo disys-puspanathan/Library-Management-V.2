@@ -1,0 +1,77 @@
+﻿student_id,student_name,sex,date_of_birth,borrower_id,department
+1,Aravindh,Male,2000-03-13,1801,IT
+2,Neha kumar,Female,2000-01-26,1802,IT
+3,Aswath,Male,2001-06-03,1803,IT
+4,Yuvan,Male,2001-04-01,1804,IT
+5,Navin prasanth,Male,2000-07-22,1805,IT
+6,Aaradhya,Female,2001-04-03,1806,IT
+7,Elina,Female,2000-12-02,1807,IT
+8,Harish anadh,Male,2001-04-14,1808,IT
+9,Saravanan,Male,2000-11-14,1809,IT
+10,Jayashree,Female,2001-03-24,1810,IT
+11,Ajay kumar,Male,2000-10-30,1811,IT
+12,Kumar,Male,2001-07-21,1812,IT
+13,Srinithi,Female,2001-10-21,1813,IT
+14,Kapil dev,Male,2001-01-18,1814,IT
+15,Manoj kumar,Male,2001-02-01,1815,IT
+16,Roshni,Female,2000-06-27,1816,IT
+17,Vinitha,Female,2001-11-20,1817,IT
+18,Vijay,Male,2001-04-08,1818,IT
+19,Surya,Male,2001-05-10,1819,IT
+20,Vishal,Male,2000-07-24,1820,IT
+21,Manogar,Male,2000-03-13,1821,CSE
+22,Anusurya,Female,2000-01-26,1822,CSE
+23,Gowtham,Male,2001-06-03,1823,CSE
+24,Prabhu,Male,2001-04-01,1824,CSE
+25,Raja,Male,2000-07-22,1825,CSE
+26,Gayathri,Female,2001-04-03,1826,CSE
+27,Rohini,Female,2000-12-02,1827,CSE
+28,Andrews,Male,2001-04-14,1828,CSE
+29,melvin,Male,2000-11-14,1829,CSE
+30,Lilly,Female,2001-03-24,1830,CSE
+31,Franchise,Male,2000-10-30,1831,CSE
+32,Vinoth,Male,2001-07-21,1832,CSE
+33,Betty,Female,2001-10-21,1833,CSE
+34,Vinothini,Female,2001-01-18,1834,CSE
+35,Gopal,Male,2001-02-01,1835,MECH
+36,Govindhan,Male,2000-06-27,1836,MECH
+37,Kowshik,Male,2001-11-20,1837,MECH
+38,Leo Paul,Male,2001-04-08,1838,MECH
+39,Suraj,Male,2001-05-10,1839,MECH
+40,Harshan,Male,2000-07-24,1840,MECH
+41,Prabhash,Male,2001-03-09,1841,MECH
+42,Vijith,Male,2001-01-06,1842,MECH
+43,Srijith,Male,2001-11-14,1843,MECH
+44,Sriman,Male,2000-06-16,1844,MECH
+45,Sriram,Male,2001-01-08,1845,MECH
+46,Nithesh,Male,2000-10-26,1846,MECH
+47,Rithesh,Male,2001-09-28,1847,MECH
+48,Sanjay,Male,2001-06-01,1848,MECH
+49,Caleb,Male,2001-12-17,1849,MECH
+50,thirupathi,Male,2000-06-16,1850,BME
+51,Deepthi,Female,2000-10-01,1851,BME
+52,Varun,Male,2001-11-19,1852,BME
+53,Sankar,Male,2001-06-28,1853,BME
+54,Mahadevan,Male,2000-01-11,1854,BME
+55,Aysha,Female,2000-02-02,1855,BME
+56,Harini,Female,2000-10-23,1856,BME
+57,Jeyaraj,Male,2000-09-21,1857,BME
+58,Prithvi,Male,2001-12-26,1858,BME
+59,Madhumitha,Female,2000-05-28,1859,BME
+60,Ashwin,Male,2001-10-29,1860,BME
+61,Selva,Male,2000-09-06,1861,BME
+62,Ramya,Female,2001-04-28,1862,CIVIL
+63,Murugan,Male,2001-12-06,1863,CIVIL
+64,Srinivasan,Male,2001-03-14,1864,CIVIL
+65,Lakhsmi,Female,2000-12-10,1865,CIVIL
+66,Priya,Female,2001-03-01,1866,CIVIL
+67,Prasath,Male,2001-06-05,1867,CIVIL
+68,Omar,Male,2001-05-29,1868,CIVIL
+69,Muhmad,Male,2001-03-17,1869,CIVIL
+70,John,Male,2000-11-22,1870,CIVIL
+71,Prabhu,male,2001-02-10,1871,MBA
+
+(71 rows affected)
+
+
+Completion time: 2022-02-05T20:06:41.9429390+05:30

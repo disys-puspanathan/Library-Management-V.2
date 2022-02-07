@@ -1,0 +1,68 @@
+﻿category,no_of_actualcopies,no_of_copiesborrowed,publication_year
+Physics,50,50,2020
+Scientific,60,55,2020
+Children,100,89,2020
+Comics,60,55,2020
+Fantasy,91,60,2020
+Fiction,82,29,2020
+Non-Fiction,52,43,2020
+Detective,73,73,2020
+Story,85,50,2020
+Drama,69,12,2020
+Automobile,82,80,2020
+Blog,62,45,2020
+Philosophy,74,13,2020
+Travel,100,67,2020
+Western,55,25,2020
+Historical fiction,62,20,2020
+Satire,50,19,2020
+Suspense,77,56,2020
+Horror,71,71,2020
+Poetry,67,50,2020
+C,C++,122,95,2021
+Life Skills,147,123,2021
+Java,150,150,2021
+Cooking,149,100,2021
+Accountings,134,98,2021
+Law,142,50,2021
+Income Tax act,139,78,2021
+Comedy ,106,100,2021
+Love Drama,141,120,2021
+Thriller,127,90,2021
+Big Data,126,80,2021
+Adventure,126,70,2021
+Lonely,126,60,2021
+Bedtime Stories,110,50,2021
+Kitchen,117,89,2021
+Children,111,85,2021
+Anime,143,94,2021
+Action,133,101,2021
+Literature,111,12,2021
+Poetic,113,50,2021
+Web-Development,122,72,2021
+Cooking,82,50,2022
+Horror,62,40,2022
+Mystery,74,45,2022
+Blogging,100,92,2022
+Gaming,55,32,2022
+Motivational,62,55,2022
+Reference,50,20,2022
+Self-help,77,53,2022
+Periodicals,71,69,2022
+Biography,67,67,2022
+Fantasy,122,122,2022
+Science Fiction,147,122,2022
+Historical Fiction,150,111,2022
+Fan Fiction,149,120,2022
+Romance,134,110,2022
+Dystopian,142,110,2022
+Story,139,132,2022
+Pandemic.,106,100,2022
+Political Nonfiction,141,141,2022
+Diversity,127,122,2022
+Technology,126,91,2022
+
+(62 rows affected)
+
+
+Completion time: 2022-02-05T20:08:03.4324098+05:30

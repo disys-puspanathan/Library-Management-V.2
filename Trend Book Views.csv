@@ -1,0 +1,18 @@
+﻿book_name,author,category
+Rich Dad Poor Dad,Robert T. Kiyosaki,Business
+Discovery of India,Jawaharlal Nehru,History
+I Know Why The Cage Bird Sings,Maya Anguelo,Story
+Loara Dune,R. D Blackmore,Fiction
+Treasure Island,Robert Louis,Fiction
+Mein Kampf,Adolf Hitler,Autobiography
+Object Oriented Programming with C++,E Balagurusamy,Education
+Tell You About Capitalism,HA-Joon Chang,Economics
+The Black Swan,Nassim Nicholas Taleb,Economics
+Kite Runner,Khaled Hosseini,Story
+Alexander Hamilton,Ron Chernow,Biography
+Think and Grow,Napoleon Hill,Economics
+
+(12 rows affected)
+
+
+Completion time: 2022-02-05T20:02:13.0191241+05:30
