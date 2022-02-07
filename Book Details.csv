@@ -1,0 +1,69 @@
+﻿book_id,book_name,author,binding_id,no_of_actualcopies,no_of_booksborrowed,category,publication_year,reviews
+1,Steve Jobs,Walter Issacson,2,30,15,Biography,2018,4.6
+2,Eat to Live,Joel Fuhrman,1,26,20,Health,2013,4.7
+3,City of Heavenly Fire,Cassandra Clare,1,30,15,Fiction,2008,4.7
+4,Da Vinci Code,Dan Brown,2,25,15,Fiction,2013,3.9
+5,War and Peace,Leo Tolstoy,2,26,17,Philosophical fiction,2008,4.2
+6,Python For All,John Shovic,2,26,20,Education,2018,4
+7,Automate The Boring Stuff With Python,Al Sweigart,2,26,16,Education,2014,4.1
+8,Wings Of Fire,APJ Abdul Kalam,1,26,15,Autobiography,2014,3.6
+9,Ikigai,Hector Garcia,2,26,16,Personal Development,2006,3.7
+10,Who Will Cry When You Will Die,Robin Sharma,1,27,17,Personal Development,2015,4.9
+11,Rich Dad Poor Dad,Robert T. Kiyosaki,1,26,16,Business,2015,4.5
+12,Discovery of India,Jawaharlal Nehru,1,25,16,History,2014,4.5
+13,Immortals of Meluha,Amish Tirpathi,2,25,15,High Fantasy,2020,2.5
+14,A Brief History Of Time,Stephen Hawking,1,26,19,SPACE,2016,4.6
+15,I Know Why The Cage Bird Sings,Maya Anguelo,2,27,19,Story,2006,4.5
+16,Lord Of Files,William Golding,1,28,20,Fiction,2016,4.3
+17,Loara Dune,R. D Blackmore,1,26,20,Fiction,2008,4.5
+18,Jamacia Inn,Daphne,1,25,16,Fiction,2013,4.4
+19,Kidnapped,Robert Louis,2,26,20,Fiction,2005,4.3
+20,Treasure Island,Robert Louis,1,28,20,Fiction,2010,4.5
+21,The Call Of Wild,Jack London,1,27,19,Fiction,2008,4.4
+22,Charlottes Web,E. B White,1,28,19,Fiction,2011,4.2
+23,My Experiments with Truth,Mahatma Gandhi,2,29,19,Autobiography,2019,4.3
+24,The Wind In Willows,Kenneth Grahame,2,26,17,Fiction,2015,4.7
+25,Being and Time,Martin Heldegger,2,28,16,Philosophy,2008,4.7
+26,The Republic,Rocha Pereia,2,29,17,Philosophy,2005,3.9
+27,Critique For Pure Reason,Paul Guyer,2,27,17,Philosophy,2014,4.2
+28,The Prince,Rufus Godwin,2,25,15,Philosophy,2010,4
+29,Ethics,Stuart Hampshire,1,26,16,Philosophy,2007,4.1
+30,Long Walk To Freedom,Nelson Mandela,1,26,16,Autobiography,2006,3.6
+31,The Dairy Of Young Girl,Anne Frank,2,27,16,Autobiography,2020,3.7
+32,Mark Twain,Mark Twain,1,26,17,Autobiography,2018,4.9
+33,Mein Kampf,Adolf Hitler,2,26,15,Autobiography,2016,4.5
+34,Object Oriented Programming with C++,E Balagurusamy,2,27,16,Education,2015,4.5
+35,Freakonomics,Steveb D.Levit,2,25,20,Economics,2020,2.5
+36,Thinking Fast and Slow,Daniel Kahneman,2,29,19,Economics,2009,4.6
+37,Tell You About Capitalism,HA-Joon Chang,2,29,15,Economics,2018,4.5
+38,Animal Spirits,Akerlof and Shiller,2,26,19,Economics,2013,4.3
+39,The Black Swan,Nassim Nicholas Taleb,2,27,16,Economics,2015,4.5
+40,1984,George Orwell,2,25,20,Story,2020,4.4
+41,The Lord Of Wings ,J.R.R.Tolken,1,29,15,Story,2019,4.3
+42,Kite Runner,Khaled Hosseini,2,26,16,Story,2005,4.5
+43,Harry Potter,J.K.Rowling,1,28,18,Story,2018,4.4
+44,The Book Theif,Markus Zusak,1,29,18,Story,2019,4.2
+45,Thinking with type,Ellen Lupton,1,28,20,Arts,2020,4.4
+46,History Of 20th Century,Martin Gilbert,1,29,18,History,2016,4.7
+47,Guns,Jared Daimond,1,29,18,History,2012,4.7
+48,A World lit Only by Fire,William Manchestar,2,29,15,History,2013,3.9
+49,The Crusades ,Thomas Asbridge,1,26,15,History,2010,4.2
+50,Over The Edge Of The World,Laurence,1,30,17,History,2010,4
+51,A Beautiful Mind ,Sylvia Nasar,1,30,19,Biography,2006,4.1
+52,The Enigma,Andrew Hodges,1,30,20,Biography,2009,3.6
+53,Alexander Hamilton,Ron Chernow,2,28,18,Biography,2014,4.5
+54,Barracoon,Zora Neale Hurston,2,29,20,Biography,2008,2.5
+55,CHURCHILL : A Life,MArtin Glibert,2,25,19,Biography,2007,4.3
+56,The Photographer's,Lindsay Adler,1,28,15,Photography,2020,4.3
+57,A Tale of Two Cities,Charles Dickens,2,30,16,Historical novel,2012,3.7
+58,Dunes,Han,2,20,9,story,2009,4.2
+59,Physics,Ranjith,2,47,2,Physics,2017,4.3
+60,Autocar,Easwar,2,50,5,Automobile,2022,4.8
+61,Think and Grow,Napoleon Hill,2,26,19,Economics,2010,4.5
+62,The Fifth Discipline : The Art,Peter M.Senge,2,30,18,Management,2014,4.4
+63,A Theory of Justice,John Rawls,2,26,20,Law,2006,4.2
+
+(63 rows affected)
+
+
+Completion time: 2022-02-05T20:05:23.4958356+05:30

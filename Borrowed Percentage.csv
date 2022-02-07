@@ -1,0 +1,27 @@
+﻿category,book_borrowed_percentage
+Arts,71.43
+Autobiography,61.25
+Automobile,10
+Biography,64.53
+Business,61.54
+Economics,66.67
+Education,65.82
+Fiction,67.29
+Health,76.92
+High Fantasy,60
+Historical novel,53.33
+History,58.93
+Law,76.92
+Management,60
+Personal Development,62.26
+Philosophical fiction,65.38
+Philosophy,60
+Photography,53.57
+Physics,4.26
+SPACE,73.08
+Story,62.5
+
+(21 rows affected)
+
+
+Completion time: 2022-02-05T20:02:34.1707586+05:30
